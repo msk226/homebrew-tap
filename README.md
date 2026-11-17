@@ -4,6 +4,7 @@
 
 ```sh
 brew tap msk226/tap
+brew trust msk226/tap   # 개인 tap이라 처음 한 번 필요합니다
 brew install workclock
 ```
 
