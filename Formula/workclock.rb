@@ -2,7 +2,7 @@ class Workclock < Formula
   desc "Menu bar app showing today's work progress and earnings"
   homepage "https://github.com/msk226/work-clock"
   url "https://github.com/msk226/work-clock/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_TARBALL_SHA256"
+  sha256 "4e33f8490dc5aeb1d2939237acccba7070a58574a0276a305449c74a33ac9a49"
   license "MIT"
 
   depends_on macos: :ventura
